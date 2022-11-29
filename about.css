@@ -1,0 +1,295 @@
+.navbar{
+	background-color: #364B55;
+}
+.nav-logo img{
+	height: 40px;
+	width: 140px;
+	margin-left: 120px;
+	cursor: pointer;
+	
+	border-style: none;
+	
+}
+span{
+	color: #F28123;
+}
+.navmenu a{
+	text-align: center;
+}
+.nav-item {
+	
+	justify-content: center;
+	font-size: 20px;
+
+	margin-left: 10px;
+	color: white;
+
+}
+.nav-item a{
+	text-align: center;
+	
+	margin-left: 50px;
+
+}
+.nav-item a:hover{
+	background-color: #F28123;
+	color: black;
+	border-radius: 10px;
+	transition: .5s;
+}
+.icon i{
+	
+	color: white;
+	margin-right: 50px;
+	position: relative;
+}
+.body-title{
+	height: 500px;
+	padding-top: 180px;
+	text-align: center;
+	color: white;
+	justify-content: center;
+	background-color: #364B55;
+	margin-bottom: 40px;
+	
+}
+.body-title a{
+	color: white;
+}
+.body-fresh{
+	letter-spacing: 4px;
+	font-size: 20px;
+	color: #F28123;
+	font-style: bold;
+	padding: 10px;
+}
+.body-sub{
+	font-size: 70px;
+}
+.boootn{
+	border-color: #F28123; 
+}
+.boootn a:hover{
+	background-color: #F28123;
+	transition: .5s;
+}
+
+
+/*Sopping prat*/
+
+#sopping{
+	position: relative;
+	margin-top: 25px;
+	background-color: #F8F9FA;
+	height: 250px;
+	padding-top: 100px;
+	
+}
+.sopping-icon{
+	color: #F28123;
+	font-size: 30px;
+	
+}
+
+/*slider section*/
+
+.carousel-item{
+	text-align: justify;
+	margin-right: 100px;
+	padding: 40px;
+	margin-right: 0px;
+	margin-top: 100px;
+}
+.carousel-item img{
+	width: 170px;
+	height: 150px;
+	margin-left: 520px;
+	border-radius: 50%;
+	margin-bottom: 50px;
+
+}
+.carousel-item{
+	padding-right: 30%;
+	letter-spacing: 2px;
+	padding-top: 30px;
+}
+#carouselExampleControls{
+	text-align: center;
+	margin-left: 10%;
+
+}
+.client-meta{
+	padding-right: 50px;
+}
+
+.month{
+	
+}
+.mont-imgee img{
+	
+	width: 550px;
+	height:400px; 
+}
+.mont-imgee i{
+	font-size: 200px;
+}
+
+
+.client-meta{
+	margin-left: 50%;
+}
+/*bennar strat*/
+.shop-banner{
+	margin-top: 100px;
+	justify-content: center;
+	
+	height: 600px;
+	
+	background-image: url(imge/1.jpg);
+	
+	background-repeat: no-repeat;
+}
+
+
+.bennar-title{
+	position: relative
+	margin-bottom: 50px;
+	
+	padding-top: 100px;
+	
+}
+.bennar-title h3{
+	font-size: 60px;
+}
+.sale-percent{
+	font-size: 30px;
+}
+
+
+/*bennar end*/
+
+
+/*about us start*/
+
+#about-us{
+	padding: 30px;
+	background-color: 
+
+
+}
+
+.icoooom{
+	padding-top: 30px;
+	font-size: 30px;
+	padding-right: 60px;
+	
+
+}
+.icoooom i{
+	border:2px #f28123 dotted;
+	border-radius: 999px;
+	display: block;
+    font-size: 24px;
+  
+    color: #F28123;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    line-height: 60px;
+  
+}
+.home-best{
+	margin-left: 20px;
+	padding-bottom: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.imgeeeee img{
+	width: 570px;
+	height: 400px;
+	
+}
+
+
+
+/*about us end*/
+
+
+
+/*our team strat*/
+#our-team{
+	position: relative;
+	margin-bottom: 50px;
+}
+.section-title{
+	margin-bottom: 150px;
+}
+.team-img img{
+	height: 450px;
+	width: 350px;
+	border-radius: 10px;
+
+}
+.team-icon{
+	position: absolute;
+	bottom: 20px;
+	
+	font-size: 20px;
+	padding-left: 120px;
+}
+
+.team-icon i{
+	border-radius: 30px;
+	color: white;
+	background-color: #f28123;
+	color: white;
+	padding: 10px;
+}
+/*our team end*/
+
+/*footer section*/
+
+.footer-nav p{
+	cursor: pointer;
+}
+.about-us h2{
+
+}
+
+#foooter{
+	display: flex;
+	background: #051922;
+	color: white;
+	padding-top: 70px;
+	margin-top: 100px;
+	
+}
+#foooter p:hover{
+	color: orange;
+	padding-left: 30px;
+	transition: .5s;
+}
+.about-us p:hover{
+	color: orange;
+	padding-left: 30px;
+	transition: .5s;
+}
+.boootn{
+	padding: 15px;
+	border:none;
+}
+.boootn:hover{
+	border-radius: 30px;
+}
+.footer-icon{
+	font-size: 20px;
+	padding: 10px;
+	letter-spacing: 5px;
+}
+.footer-icon i:hover{
+	font-size: 30px;
+	transition: .5s;
+}
+.footer-bottom{
+	
+}

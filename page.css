@@ -1,0 +1,205 @@
+.navbar{
+	background-color: #364B55;
+}
+.nav-logo img{
+	height: 40px;
+	width: 140px;
+	margin-left: 120px;
+	cursor: pointer;
+	
+	border-style: none;
+	
+}
+span{
+	color: #F28123;
+}
+.navmenu a{
+	text-align: center;
+}
+.nav-item {
+	
+	justify-content: center;
+	font-size: 20px;
+
+	margin-left: 10px;
+	color: white;
+
+}
+.nav-item a{
+	text-align: center;
+	
+	margin-left: 50px;
+
+}
+.nav-item a:hover{
+	background-color: #F28123;
+	color: black;
+	border-radius: 10px;
+	transition: .5s;
+}
+.icon i{
+	
+	color: white;
+	margin-right: 50px;
+	position: relative;
+}
+.body-title{
+	height: 500px;
+	padding-top: 180px;
+	text-align: center;
+	color: white;
+	justify-content: center;
+	background-color: #364B55;
+	margin-bottom: 40px;
+	
+}
+.body-title a{
+	color: white;
+	margin-bottom: 200px;
+}
+.body-fresh{
+	letter-spacing: 8px;
+	font-size: 20px;
+	color: #F28123;
+	font-style: bold;
+	padding: 10px;
+}
+.body-sub{
+	font-size: 70px;
+}
+
+
+
+
+
+//*latest news*/
+.card{
+	margin-bottom: 100px;
+
+}
+
+.section-title{
+	padding-bottom: 50px;
+}
+.blog-meta{
+	font-size: 15px;
+}
+.single-latest-news{
+	height: auto;
+	line-height: 30px;
+	width: auto;
+}
+.news-text-box h3 a{
+	color: black;
+}
+
+.single-latest-news img{
+	height: 200px;
+	width: 370px;
+	padding-bottom: 20px;
+}
+.single-latest-news a{
+	text-decoration: none;
+
+}
+
+
+
+
+
+.card{
+	border: none;
+	padding: 10px;
+
+}
+.card img{
+	width: 330px;
+}
+
+/*end latest news*/
+
+/*pagination start*/
+
+
+
+#pagination{
+	margin-top: 100px;
+	border-radius: 20px;
+
+}
+
+
+
+/*pagination end*/
+
+/*logo*/
+#carouselExampleInterval{
+	margin-top: 150px;
+}
+
+/*logo*/
+
+.card-title{
+	cursor: pointer;
+}
+
+/*<!-- fall in love strat-->*/
+
+
+#love{
+	margin-top: 100px;
+}
+
+
+/*<!-- fall in love end-->*/
+
+
+
+
+
+/*footer section*/
+
+.footer-nav p{
+	cursor: pointer;
+}
+.about-us h2{
+
+}
+
+#foooter{
+	display: flex;
+	background: #051922;
+	color: white;
+	padding-top: 70px;
+	margin-top: 100px;
+	
+}
+#foooter p:hover{
+	color: orange;
+	padding-left: 30px;
+	transition: .5s;
+}
+.about-us p:hover{
+	color: orange;
+	padding-left: 30px;
+	transition: .5s;
+}
+.boootn{
+	padding: 15px;
+	border:none;
+}
+.boootn:hover{
+	border-radius: 30px;
+}
+.footer-icon{
+	font-size: 20px;
+	padding: 10px;
+	letter-spacing: 5px;
+}
+.footer-icon i:hover{
+	font-size: 30px;
+	transition: .5s;
+}
+.footer-bottom{
+	
+}
